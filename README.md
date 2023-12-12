@@ -1,2 +1,2 @@
 # mypaper
-Store data or code related to my paper
+This warehouse is mainly used to store data or code related to my paper
